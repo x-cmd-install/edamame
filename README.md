@@ -37,22 +37,22 @@ Total: **118,732** lines of code across **373** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 142 · **Forks**: 5 · **Open issues**: 83 · **Contributors**: 6
+- **Stars**: 144 · **Forks**: 5 · **Open issues**: 83 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 13 · **Open PRs**: 4 · **Closed issues**: 69 · **Open issues**: 14 · **Commits**: 688
+- **Releases**: 9 · **Merged PRs**: 13 · **Open PRs**: 3 · **Closed issues**: 69 · **Open issues**: 14 · **Commits**: 688
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 4 | 3 | 15 | 4 | 33 |
-| last60d | 2026-09-25 | 4 | 7 | 4 | 30 | 6 | 125 |
-| 90d | 2026-08-26 | 6 | 11 | 4 | 42 | 6 | 183 |
-| last180d | 2026-05-28 | 9 | 13 | 4 | 69 | 14 | 429 |
-| 360d | 2025-11-29 | 9 | 13 | 4 | 69 | 14 | 661 |
-| last720d | 2024-12-04 | 9 | 13 | 4 | 69 | 14 | 688 |
+| 30d | 2026-10-26 | 2 | 3 | 2 | 11 | 4 | 33 |
+| last60d | 2026-09-26 | 4 | 7 | 3 | 30 | 6 | 125 |
+| 90d | 2026-08-27 | 6 | 11 | 3 | 42 | 6 | 183 |
+| last180d | 2026-05-29 | 9 | 13 | 3 | 69 | 14 | 429 |
+| 360d | 2025-11-30 | 9 | 13 | 3 | 69 | 14 | 661 |
+| last720d | 2024-12-05 | 9 | 13 | 3 | 69 | 14 | 688 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for edamame lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:42:41Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:46:24Z._
